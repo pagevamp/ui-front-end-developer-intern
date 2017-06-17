@@ -5,7 +5,7 @@ Making a website was a problem. So we fixed it. Facebook Pages makes it easy for
 
 ## Hiring **UI Developer** Intern(s)
 
-We are looking for an enthusiastic intern(s) seeking an opportunity to learn, sharpen their skills and grow with the company. We are strong believers of **Open-work** culture, **Agile** and **Team-work**.
+We are looking for an enthusiastic intern(s) seeking an opportunity to learn, sharpen their skills and grow with the company. We are strong believers of **Open-work** culture, **AGILE (Scrum)** and **Team-work**.
 
 During the internship **(12 weeks)**, you'll work along with **Senior** Designers and Developers and get exposure to industry standard process, trends, tools and technology. 
 
