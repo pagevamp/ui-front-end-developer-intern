@@ -1,8 +1,3 @@
-# Company: Pagevamp
-
-Making a website was a problem. So we fixed it. Facebook Pages makes it easy for you to add and manage your information. We take the difficulty out of putting that information on your website. Don't waste several hours every week updating your website manually. Just update your Facebook page, and spend your time building your business and doing what you love.
-
-
 ## Hiring **UI Developer** Intern(s)
 
 We are looking for an enthusiastic intern(s) seeking an opportunity to learn, sharpen their skills and grow with the company. We are strong believers of **Open-work** culture, **AGILE (Scrum)** and **Team-work**.
